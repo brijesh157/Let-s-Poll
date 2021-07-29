@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674605630644",
+    "project_id": "let-s-poll-9dc8b",
+    "storage_bucket": "let-s-poll-9dc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674605630644:android:a036116170d90a19e043e1",
+        "android_client_info": {
+          "package_name": "com.example.letspoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674605630644-d2kqkjja60c10f2ujibtkssd543j8atl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3HYqXrRnVBilXfNgQtaPN_zAcODawPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674605630644-d2kqkjja60c10f2ujibtkssd543j8atl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

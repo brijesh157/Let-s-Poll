@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Let\'s Poll</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutapp_fragment">About App</string>
+    <string name="feedback_fragment">Feedback</string>
+    <string name="logout_fragment">Logout</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="setting_fragment">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="Setting">Setting</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Logout">Logout</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Alert Dialog</string>
+    <string name="AboutApp">AboutApp</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+
+
+</resources>
